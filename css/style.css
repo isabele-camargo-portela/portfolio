@@ -1,0 +1,12 @@
+body, header {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background-color: #1d1d1d;
+}
+
+header {
+    background-color: #ff2222;
+}
